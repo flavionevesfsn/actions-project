@@ -8,6 +8,7 @@ public class ActionsProjectApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ActionsProjectApplication.class, args);
+        System.out.println("Testando as actions");
 	}
 
 }
